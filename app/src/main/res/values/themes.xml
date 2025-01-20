@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BudgetTracker" parent="@style/Theme.MaterialComponents.Light">
+        <item name="android:textColor">@color/textMain</item>
+        <item name="colorPrimary">@color/green</item>
+    </style>
+</resources>
